@@ -13,3 +13,9 @@
 | ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white) |
 
 </div>
+
+<div align="center">
+  
+*And I love some kind of challenge.*
+
+</div>
